@@ -2,7 +2,7 @@
 I'm a Junior Data Analystin training with hands-on experience in SQL, Excel, Tableau, and Power BI. I'm passionate about taking something messy and making it into something with value, which perfectly aligns with what a Data Analyst does. Currently, I'm completing the TripleTen BIA/Data Analytics program remotely. I've built projects analyzing Airbnb datasets, streaming services, and product sales. My focus is becoming a better Analyst daily, and the past few months have been amazing within the program.
 
 Skills & Tools:
-Languages/Queries - SQL, DAX basics, Python (basics)
+Languages/Queries - SQL, DAX basics, Python (fundamentals)
 Visualization - Tableau, Power BI
 Spreadsheets - Excel (Pivot Tables, Functions, Conditional  Formatting)
 Other - Data Cleaning, Business Intelligence Concepts
